@@ -1,0 +1,42 @@
+h1{
+    font-size: 80px;
+}
+
+#myCanvas{
+    background-color: white;
+    height:800px;
+    width: 1000px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+h3
+{
+	display: inline-block;
+    font-weight: 600;
+}
+.body_backgorund 
+{
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: stretch;
+    background-repeat: no-repeat;
+    
+}
+#myCanvas
+{
+    width: 1000px;
+    height: 800px;
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
